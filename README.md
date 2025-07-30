@@ -47,7 +47,7 @@ I took raw sales data and applied several key analytics steps:
 ## 📸 Visual Preview
 
 > Click to view or download  
-> ![Dashboard Preview](dashboard_screenshot.png)
+> ![Dashboard Preview](Preview.png)
 
 ---
 
